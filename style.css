@@ -14,7 +14,7 @@ ul,li{list-style-type:none;}
 
 .wrap{ width:1000px; margin:0 auto;}
 .banner{ width:1000px; height:300px;}
-.nav{ width:1000px; height:40px; background-color:#51bdfe;}
+.nav{ width:1000px; height:40px; background-color:#7ED8FE;}
 .nav li{ float:left; width:166px; height:40px; position:relative;}
 .nav li a{ width:166px; height:40px; line-height:40px; text-align:center; display:block; background-color:#51bdfe; color:#FFF; font-size:16px; font-weight:bold;}
 .nav li a:hover{ background-color:#FCEA05; font-weight:bold; text-decoration:none;}
@@ -132,9 +132,4 @@ ul,li{list-style-type:none;}
 	height:26px;
 	border:solid 1px #712b73;
 	text-indent:5px;
-}
-.bj{
-	width:100%;
-	height:100%;
-	background:url(images/bj.jpg) no-repeat repeat;
 }
